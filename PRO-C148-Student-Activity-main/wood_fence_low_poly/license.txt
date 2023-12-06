@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wood Fence (Low Poly)
+* source:	https://sketchfab.com/3d-models/wood-fence-low-poly-8adfbcb77b734574ba99fde5bd0df4b9
+* author:	VX-Designs (https://sketchfab.com/vxdesigns)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wood Fence (Low Poly)" (https://sketchfab.com/3d-models/wood-fence-low-poly-8adfbcb77b734574ba99fde5bd0df4b9) by VX-Designs (https://sketchfab.com/vxdesigns) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
